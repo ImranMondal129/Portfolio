@@ -1,0 +1,50 @@
+body{
+    font-family: 'Inter', sans-serif;  
+}
+.c{
+    display: flex;
+    margin-bottom: 100px;
+}
+.a{
+    width: 50%;
+}
+.a img{
+    width: 80%;
+    padding-left: 100px;
+}
+.button{
+    background: blue;
+    border: none;
+    padding: 10px 10px;
+}
+h1{
+    font-size: 50px;
+}
+
+.top-banner{
+    background-image: url(./c.jpg);
+    background-repeat: no-repeat;
+}
+.d{
+    box-shadow: 10px 10px 40px blue;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+#e{
+    border-image: linear-gradient(#2600ff, #47ff50);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+#f{
+    border-image: url(./image/back.jpg);
+    border-image-slice: 1;
+    border-left: 7px solid;
+}
+.g{
+    color: red;
+}
+footer{
+    text-align: center;
+
+}
